@@ -31,6 +31,7 @@ Frameworks and libraries
 ![Laravel](https://img.shields.io/badge/laravel-f55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/vue-42b883.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-282c34.svg?style=for-the-badge&logo=react&logoColor=00d8ff)
+![AEM Core Components](https://img.shields.io/badge/core--components-ff0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 Ecosystems  
-![Adobe Experience Manager](https://img.shields.io/badge/aem-ff0000?style=for-the-badge&logo=adobe&logoColor=white&label=Adobe)
+![Adobe Experience Manager](https://img.shields.io/badge/adobe--experience--manager-ff0000?style=for-the-badge&logo=adobe&logoColor=white)
