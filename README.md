@@ -32,15 +32,17 @@ I tend to dabble in a fair bit but my main focus is on the following.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-8892be.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frameworks and libraries
 
+![AEM Core Components](https://img.shields.io/badge/core--components-ff0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-f55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/vue-42b883.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-282c34.svg?style=for-the-badge&logo=react&logoColor=00d8ff)
-![AEM Core Components](https://img.shields.io/badge/core--components-ff0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ### Ecosystems
 
 ![Adobe Experience Manager](https://img.shields.io/badge/adobe--experience--manager-ff0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-f55247?style=for-the-badge&logo=laravel&logoColor=white)
